@@ -1,0 +1,9 @@
+{
+  "name": "SecurePatrol",
+  "description": "A smart security patrol system with QR verification, geolocation anti-cheat, and AI-powered performance analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
